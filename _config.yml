@@ -1,0 +1,7 @@
+# Jekyll Configuration
+
+# Site Settings
+url: "gipr.github.io/myporto"
+title: Welcome
+email: achmadgilangpr@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog
